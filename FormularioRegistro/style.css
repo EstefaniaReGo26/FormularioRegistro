@@ -1,0 +1,18 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: url('imagenes/City-buildings-houses-view-from-bottom-to-top-blue-sky_3840x2160.jpg') no-repeat center center / cover;
+}
+
+.containerUno{
+  color: rgb(239, 255, 12);
+}
